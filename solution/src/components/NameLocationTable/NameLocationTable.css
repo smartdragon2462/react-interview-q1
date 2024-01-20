@@ -1,0 +1,24 @@
+.name-location-table {
+    width: 100%;
+    border-collapse: collapse;
+    /* Other basic styling */
+  }
+  
+  .name-location-table th,
+  .name-location-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  /* Responsive styles for smaller screens */
+  @media (max-width: 768px) {
+    .name-location-table {
+      /* Adjust font size, padding, etc. */
+    }
+  
+    .name-location-table th,
+    .name-location-table td {
+      /* Ensure readability on smaller screens */
+    }
+  }

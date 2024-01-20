@@ -17,5 +17,8 @@
   "homepage": "https://github.com/MasterRyd3l/react-interview-q1#readme",
   "devDependencies": {
     "create-react-app": "^5.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
   }
 }
